@@ -1,0 +1,56 @@
+    {
+    "books": [
+      {
+        "id": "ljx8i0qu2uckcowlqdz",
+        "name": "JAVASCRIPT",
+        "description": "JavaScript adalah bahasa pemrograman yang wajib dikuasai oleh seorang web developer. Bahasa ini awalnya digunakan untuk membuat sebuah website menjadi lebih interaktif. Dalam perkembangannya, JavaScript tidak lagi hanya digunakan pada browser, melainkan juga bisa berjalan pada server. Ini berarti JavaScript digunakan di seluruh bagian website, mulai dari front-end hingga back-end. Bahkan, kini JavaScript mulai merambah ke platform lain seperti mobile, desktop, dan game.",
+        "pictureId": "01.jpeg",
+        "Kurikulum": "Coding JavaScript",
+        
+        "soal": "",
+        "jawab": " " 
+      },
+      {
+        "id": "fe8bbxoazddkcowlqdz",
+        "name": "WEBSITE DASAR DENGAN HTML & CSS",
+        "description": "Website di era sekarang sudah menjadi kebutuhan utama yang tidak bisa diabaikan. Seluruh sektor bisnis atau edukasi dapat memanfaatkan website sebagai alat untuk promosi, tukar informasi, dan lainnya. Berdasarkan data dari World Wide Web Technology Surveys, dari seluruh website yang aktif, 88.2% menggunakan HTML dan 95.6% menggunakan CSS. Kelas ini membahas tuntas mengenai HTML dan CSS sebagai fondasi dalam pembuatan website.",
+        "pictureId": "02.jpeg",
+        "Kurikulum": "Coding JavaScript",
+        
+        "soal": "",
+        "jawab": "" 
+      },
+      {
+        "id": "ik1zljmlf68kcowlqdz",
+        "name": "FRONT END JAVASCRIPT",
+        "description": "Untuk membuat website yang memiliki fungsionalitas lebih dan interaktif, web developer perlu belajar teknik manipulasi DOM. Kelas ini membahas secara tuntas dan lengkap mengenai DOM Manipulation dan Web Storage dalam membuat website yang memiliki fungsionalitas lebih dan interaktif.",
+        "pictureId": "03.jpeg",
+        "Kurikulum": "Coding JavaScript",
+        
+        "soal": "",
+        "jawab": "" 
+      },
+      {
+        "id": "9jpuzkm6n6jkcowlqdz",
+        "name": "BACK END JAVASCRIPT",
+        "description": "Back-End Developer merupakan developer yang memiliki peran sangat penting, karena Back-End Developer menjadi faktor vital dalam membangun sebuah sistem aplikasi meskipun perannya tidak terlihat secara langsung oleh pengguna. Seorang Back-End Developer harus mampu membangun layanan yang mampu mendukung aplikasi Front-End dapat berfungsi dengan baik. Kelas ini membahas tuntas kemampuan dasar untuk menjadi seorang Back-End Developer dengan membangun RESTful API menggunakan teknologi JavaScript (Node.js) yang populer.",
+
+        "pictureId": "04.jpeg",
+        "Kurikulum": "Coding JavaScript",
+       
+        "soal": "",
+        "jawab": ""  
+      },
+      {
+        "id": "cpl5jpsnuqkkcowlqdz",
+         "name": "jasa",
+         "description": "jasa pembuatan website dgn bahasa javascript",
+         "pictureId": "05.jpeg",
+         "Kurikulum": "Coding JavaScript",
+         
+         "soal": "",
+         "jawab": "" 
+      }
+    ]
+  }
+
